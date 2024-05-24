@@ -1,4 +1,4 @@
-                                                     ## Olá! Eu sou a Bruna Rosa 👋
+## Olá! Eu sou a Bruna Rosa 👋
 
 - 🖥️ Hoje eu faço estágio em Analise de Sistemas 
 - 🌱 Estudando TypeScript e JavaScript 
