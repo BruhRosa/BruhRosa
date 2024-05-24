@@ -18,7 +18,12 @@
   <img align="center" alt="Bruna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-[Snack animation](https:/Github.com//BruhRosa/BruhRosa/blob/output/github-contribution-grid-snack.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BruhRosa/BruhRosa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BruhRosa/BruhRosa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BruhRosa/BruhRosa/output/github-contribution-grid-snake.svg">
+</picture>
+
 ##
 
 <div> 
