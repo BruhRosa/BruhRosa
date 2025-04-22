@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Bruna Rosa 👋
 
-- 🖥️ Hoje eu faço estágio em Analise de Sistemas 
+- 🖥️ Analista de Sistemas 
 - 🌱 Estudando TypeScript e JavaScript 
 - 💬 Contate-me no email nascimentorosabruna@gmail.com 
 
